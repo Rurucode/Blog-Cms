@@ -1,6 +1,8 @@
 ---
-title: No te olvides de poner el Where en el delete FROM.
-description: La importancia de las palabras.
+title: Los memes generan dopamina y prolongan la vida
+description: Los memes son una fuente popular de entretenimiento en línea.
+  Descubre cómo los memes pueden afectar positivamente tu bienestar emocional y
+  prolongar tu vida.
 author: Rubén Abel
 date: 2020-09-01
 tags:
@@ -8,49 +10,4 @@ tags:
   - center
   - right
 ---
-# This is a Heading h1
-
-## This is a Heading h2
-
-###### This is a Heading h6
-
-## Emphasis
-
-*This text will be italic*\
-*This will also be italic*
-
-**This text will be bold**\
-**This will also be bold**
-
-*You **can** combine them*
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-
-  * Item 2a
-  * Item 2b
-
-### Ordered
-
-1. Item 1
-2. Item 2
-3. Item 3
-
-   1. Item 3a
-   2. Item 3b
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-
-
-## Inline code
-
-This web site is using `markedjs/marked`.
+Los memes son una de las formas más populares de entretenimiento en internet, y no es de extrañar por qué. Según algunos estudios, la risa que producen los memes libera dopamina en nuestro cerebro, lo que nos hace sentir bien y nos proporciona una sensación de felicidad y satisfacción. Además, el hecho de compartir memes con amigos y familiares crea un sentido de comunidad y conexión social, lo que puede mejorar nuestro bienestar emocional. Por lo tanto, se podría argumentar que los memes no solo nos hacen reír, sino que también pueden ayudarnos a prolongar nuestra vida al hacernos sentir más felices y conectados con los demás.
