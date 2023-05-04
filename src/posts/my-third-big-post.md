@@ -1,4 +1,5 @@
 ---
+visible: true
 title: No te olvides de poner el Where en el delete FROM
 description: Cuando se trabaja con bases de datos, es importante no olvidarse de
   utilizar la cláusula WHERE al eliminar datos. Descubre por qué esto es
