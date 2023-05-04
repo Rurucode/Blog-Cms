@@ -2,10 +2,12 @@
 layout: blog
 ---
 
-<section class="mt-15">
-    {% set postslist = collections.post %}
 
-    {% for post in postslist | reverse %}
+
+<section class="mt-15">
+    {% set postslist = collections.post | reverse %}
+
+    {% for post in postslist if post.data.visible %}
         <article class="my-8">
             <h2 class="font-bold text-3xl text-gray-900 mb-2">
                 <a href="{{ post.url | url }}">
@@ -21,7 +23,6 @@ layout: blog
                     {{ post.date | readableDate }}
                     by
                     <a>{{ post.data.author }}</a>
-
                 </time>
             </p>
             {% if post.data.description %}
