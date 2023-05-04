@@ -1,4 +1,5 @@
 ---
+visible: true
 title: StackOverflow en crisis tras la llegada de Chat GPT
 description: Descubre cómo la llegada de Chat GPT ha afectado a StackOverflow,
   uno de los sitios web más populares para obtener respuestas a preguntas de
