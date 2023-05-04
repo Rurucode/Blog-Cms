@@ -1,19 +1,11 @@
 ---
-title: This is my second post
-description: Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
-date: 2020-09-02
+title: StackOverflow en crisis tras la llegada de Chat GPT
+description: Descubre cómo la llegada de Chat GPT ha afectado a StackOverflow,
+  uno de los sitios web más populares para obtener respuestas a preguntas de
+  programación.
 author: Surjith S M
+date: 2020-09-02
 tags:
   - number-2
 ---
-
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-## Section Header
-
-<a href="{{ '/posts/my-first-post/' | url }}">First post</a>
-<a href="{{ '/posts/my-third-big-post/' | url }}">Third post</a>
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+StackOverflow ha sido durante mucho tiempo un recurso valioso para los programadores en busca de respuestas a sus preguntas de programación. Sin embargo, con la llegada de Chat GPT, un modelo de lenguaje natural avanzado, algunos usuarios han comenzado a preguntarse si StackOverflow está en crisis. Chat GPT es capaz de generar respuestas precisas y completas a preguntas de programación, lo que ha llevado a algunos usuarios a cuestionar la necesidad de utilizar StackOverflow en el futuro. A pesar de esto, otros argumentan que StackOverflow aún tiene valor debido a la experiencia humana y la interacción en tiempo real que ofrece.
