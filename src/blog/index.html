@@ -7,7 +7,8 @@ layout: blog
 <section class="mt-15">
     {% set postslist = collections.post | reverse %}
 
-    {% for post in postslist if post.data.visible %}
+    {% for post in postslist %}
+    <!-- {% for post in postslist if post.data.visible %} -->
         <article class="my-8">
             <h2 class="font-bold text-3xl text-gray-900 mb-2">
                 <a href="{{ post.url | url }}">
